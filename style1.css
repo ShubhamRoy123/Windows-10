@@ -1,0 +1,179 @@
+#home{
+  margin:0%;
+  width:100%;
+  height :400px;
+  background-image:url("/images.jpeg");
+  background-size:cover; 
+
+}
+
+#navbar{
+  display:block;
+  height:35px;
+  background-color: black;
+}
+
+#pc{
+  height:25px;
+  width:35px;
+  margin-top:5px;
+  margin-left:2px;
+}
+
+#win{
+  height:25px;
+  width:28px;
+  margin-bottom:3px;
+  margin-left:2px;
+}
+#win0{
+  height:30px;
+  margin-bottom:3px;
+  margin-left:2px;
+  
+}
+
+
+#win2{
+  height:30px;
+  margin-bottom:4px;
+  margin-left:2px;
+}
+
+
+#win1{
+  height:20px;
+  margin-bottom:6px;
+  margin-left:2px;
+  
+}
+
+
+
+#dth{
+  width:270px;
+  height:35px;
+  position:relative;
+  bottom:13px;
+  background-color:#2e2e2e;
+  color:white;
+}
+
+p{
+  color:white;
+  font-size:10px;
+  margin-top:1px;
+  margin-left:3px;
+}
+
+  
+
+#win3{
+  height:20px;
+  margin-bottom:4px;
+  margin-left:2px;
+}
+
+#win4{
+  height:20px;
+  margin-bottom:4px;
+  margin-left:2px;
+}
+#win6{
+  height:30px;
+  margin-bottom:4px;
+  margin-left:2px;
+}
+#win5{
+  height:8px;
+  margin-bottom:10px;
+  margin-left:380px;
+}
+#win7{
+  height:25px;
+  margin-bottom:4px;
+  margin-left:2px;
+}
+#wind{
+  height:300px;
+  width:400px;
+  background-color:black;
+  border-color:black;
+  margin-top:53px;
+  display:flex;
+  flexbox-direction:row;
+  
+}
+#indo{
+  height:300px;
+  width:200px;
+  background-color:black;
+  
+}
+
+#subway{
+  height:75px;
+  width:75px;
+  margin-left:5px;
+  margin-top:4px;
+}
+#photo{
+  height:75px;
+  width:200px;
+  margin-left:5px;
+  margin-top:4px;
+}
+#hub{
+  height:40px;
+  width:40px;
+  margin-left:5px;
+  margin-top:4px;
+}
+
+#list{
+  color:white;
+  font-size:10px;
+  
+  margin-top:1px;
+  margin-left:15px;
+}
+#abode{
+  height:15px;
+}
+#sub{
+  height:18px;
+}
+#edge{
+  height:25px;
+}
+
+iframe{
+  height:290px;
+  width:349px;
+}
+#wiki{
+  height:75px;
+}
+#wikipedia{
+  height:300px;
+  background-color:white;
+  width:351px;
+  margin-left:250px;
+}
+#rose{
+  height:10px;
+  width:10px;
+  margin-left:311px;
+}
+#cross{
+  height:10px;
+  width:10px;
+}
+
+#wif{
+  height:20px;
+  margin-bottom:6px;
+  margin-left:2px;
+  border: 10px;
+  border-color:blue;
+}
